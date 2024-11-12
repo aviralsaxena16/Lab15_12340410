@@ -1,5 +1,5 @@
-set terminal pdf  
-set output 'ques4b.pdf'  
+set terminal png
+set output 'ques4b.png'  
 set xlabel "Age"  
 set datafile separator ','
 set ylabel "Blood Pressure"  

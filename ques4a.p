@@ -1,5 +1,5 @@
-set terminal pdf
-set output "ques4a.pdf"
+set terminal png
+set output "ques4a.png"
 set boxwidth 0.5
 set style fill solid
 set xlabel "Gender"
